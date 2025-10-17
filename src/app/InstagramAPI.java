@@ -1,4 +1,4 @@
-package src;
+package app;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class InstagramAPI {

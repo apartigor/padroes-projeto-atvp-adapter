@@ -1,4 +1,4 @@
-package src;
+package app;
 public class RespostaAPI<T> {
 // classe genérica para padronizar as respostas da API
 

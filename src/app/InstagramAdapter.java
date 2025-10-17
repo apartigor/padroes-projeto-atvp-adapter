@@ -1,4 +1,4 @@
-package src;
+package app;
 public class InstagramAdapter implements GerenciadorMidiaSocial {
 
     private InstagramAPI instagramAPI;

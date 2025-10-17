@@ -1,4 +1,4 @@
-package src;
+package app;
 public class TwitterAdapter implements GerenciadorMidiaSocial {
 
     private TwitterAPI twitterAPI;

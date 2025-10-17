@@ -56,13 +56,13 @@ O projeto está estruturado nos seguintes componentes:
 3.  Compile todos os arquivos Java:
 
     ```bash
-    javac src/*.java
+    javac src/app/*.java 
     ```
 
 4.  Execute a classe principal:
 
     ```bash
-    java -cp src AgendadorDePosts
+    java -cp src app.AgendadorDePosts
     ```
 
 A saída no console mostrará o processo de postagem e verificação de status em todas as quatro plataformas de mídia social simuladas.

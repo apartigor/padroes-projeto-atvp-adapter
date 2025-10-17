@@ -1,4 +1,4 @@
-package src;
+package app;
 // Interface para usar o sistema de resposta unificado
 public interface GerenciadorMidiaSocial {
 

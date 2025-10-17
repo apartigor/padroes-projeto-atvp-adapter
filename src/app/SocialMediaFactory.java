@@ -1,4 +1,4 @@
-package src;
+package app;
 public class SocialMediaFactory {
 
     public static GerenciadorMidiaSocial criarGerenciador(PlataformaMidiaSocial plataforma) {
